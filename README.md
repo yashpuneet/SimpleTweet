@@ -36,15 +36,18 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 General Compose Walkthrough
+
 <img src='ComposeWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Compose Character Counter Walkthrough
+
 <img src='ComposeUpdateWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Use of Parcelable
-<img src='ParcelableProof1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='ParcelableProof2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='ParcelableProof3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='ParcelableProof1.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ParcelableProof2.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ParcelableProof3.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
